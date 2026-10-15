@@ -17,6 +17,16 @@ The platform combines a Python data pipeline, SQLite analytics, a FastAPI backen
 - **REST API:** Serve analytics and forecast results through FastAPI endpoints.
 - **Local-first setup:** Run the application locally without paid APIs.
 
+
+## Dashboard Preview
+
+### Business Overview
+![Retail Intelligence dashboard overview](screenshots/dashboard-overview.png)
+
+### Regional Analytics and Sales Forecast
+![Regional performance, discount impact, and historical sales forecast](screenshots/dashboard-forecast.png)
+
+
 ## Technology Stack
 
 | Layer | Technologies |
